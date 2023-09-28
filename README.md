@@ -8,10 +8,9 @@
    - [4. Contacts](#contacts)
    - [5. Reviews](#reviews)
 
-Customer class include vehicle
-  vehicle include class with information about provided services
+Customer class include vehicle / vehicle include class with information about provided services.
 
-###User Story:
+### User story
 
    Як робітник сервісу я хочу додавати нових відвідувачів сервісу
    Як робітник сервісу я хочу оновлювати дані про користувача

@@ -21,4 +21,17 @@ Customer class include vehicle / vehicle include class with information about pr
    - Як відвідувач сервісу, я хочу замовити послугу.
    - Як відвідувач сервісу, я хочу мати доступ до контактів і залишити відгук або зворотній зв'язок.
 
-   
+### Technologies
+
+   #### Logic
+   - AutoMapper
+   #### Data
+   - FluentValidation.AspNetCore
+   - Microsoft.AspNetCore.Identity.EntityFrameworkCore
+   - Microsoft.EntityFrameworkCore
+   - Microsoft.EntityFrameworkCore.SqlServer
+   - Microsoft.EntityFrameworkCore.Tools
+   #### Web
+   - AutoMapper.Extensions.Microsoft.DependencyInjection
+   - Microsoft.AspNetCore.OpenApi
+   - Microsoft.EntityFrameworkCore.Design

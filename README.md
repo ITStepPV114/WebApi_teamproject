@@ -10,7 +10,8 @@
 
 Customer class include vehicle
   vehicle include class with information about provided services
-User Story:
+
+###User Story:
 
    Як робітник сервісу я хочу додавати нових відвідувачів сервісу
    Як робітник сервісу я хочу оновлювати дані про користувача
